@@ -1,0 +1,22 @@
+header.primary h1 {
+font-size: 2rem;
+}
+
+p.subtitle {
+font-size: 1.3rem;
+}
+
+nav.primary ul {
+list-style: none;
+padding: 0;
+}
+
+nav.primary ul li {
+background-color: rgba(0, 0, 0, 0.5);
+padding: 10px;
+border: 1px solid #ccc;
+}
+
+nav.primary ul li:active {
+background-color: rgba(0, 0, 0, 0.8);
+}
