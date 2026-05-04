@@ -2,7 +2,7 @@
 
 $(document).ready(function() {
 
-    $('.fade').slick({
+    $('.main-slider.').slick({
       dots: true,
       infinite: true,
       speed: 500,
